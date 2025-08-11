@@ -1,12 +1,12 @@
 # Hi, I'm WindYari 👋
 
-I’m a [Your Role, e.g., "Full-Stack Developer" or "Blockchain Engineer"] with a passion for building reliable, scalable, and elegant software solutions.  
+I’m a Full-stack developer with a passion for building reliable, scalable, and elegant software solutions.  
 I focus on delivering clean code, optimized performance, and seamless user experiences.
 
 ---
 
 ## 🔹 About Me
-- 💻 Specializing in **[Your Specialties, e.g., Python, Next.js, Web3, AI/ML]**
+- 💻 Specializing in **Python, Next.js, Web3, AI/ML**
 - 🚀 Working on **[Current Project or Area of Interest]**
 - 📚 Constantly learning **[New Tech/Skills]**
 - 🤝 Open to collaborations on **[Types of Projects]**
