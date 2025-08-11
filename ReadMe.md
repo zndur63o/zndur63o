@@ -23,7 +23,7 @@ I focus on delivering clean code, optimized performance, and seamless user exper
 ---
 
 ## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffdf00?style=for-the-badge&logo=javascript&logoColor=black)
