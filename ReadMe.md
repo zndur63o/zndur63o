@@ -34,6 +34,7 @@
 </div>
 
 ###
+🌐 Full-Stack Developer | Go 🐹 • Python 🐍 • Rust 🦀 • TypeScript 🟦 • JavaScript ⚡
 
 <br clear="both">
 
