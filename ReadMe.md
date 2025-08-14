@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! I am a fullstack developer.</h2>
+<h2 align="center">Hi 👋! I am WindYari.</h2>
 
 ###
 
@@ -17,57 +17,45 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WindYari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WindYari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=WindYari&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=default" alt="WindYari's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindYari&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
 ###
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
-<table>
-  <tr>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-blockchain-4502244-3729699.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-ethereum-10-645903.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-solidity-11796990-9632843.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/html5-2474805-2056091.png" width="100"></td>    
-   </tr>
-    <tr>        
-        <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-metamask-2728406-2261817.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/pycharm-1175008.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-bootstrap-6-1175203.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/selenium-8058701-6444088.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/free-android-247-1175275.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100"></td>
-        <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>
-   </tr>
-</table>
+<table align="center">
+    <tr>
+          <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-64/free-blockchain-4502244-3729699.png" width="100">Blockchain</td>
+          <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-64/free-ethereum-10-645903.png" width="100">Ethereum</td>
+          <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="100">React</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="100">Next.js</td>
+          <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-64/free-android-247-1175275.png" width="100">Android</td>
+          <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="100">Python</td>
+          <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="100">JavaScript</td>
+          <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="100">TypeScript</td>
+          <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-64/free-solidity-11796990-9632843.png" width="100">Solidity</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=rust" width="100">Rust</td>
+     </tr>
+      <tr>        
+          <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-metamask-2728406-2261817.png" width="100">Metamask</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="100">Tailwind</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="100">Bootstrap</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=selenium" width="100">Selenium</td>
+          <td align="center"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="100">Django</td>
+          <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100">Sass</td>
+          <td align="center"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="100">GraphQL</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="100">MongoDB</td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="100">PostgreSQL</td>
+          <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="100">MySQL</td>
+     </tr>
+      <tr>
+          <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="100">AWS</td>
+          <td align="center"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="100">Nginx</td>
+          <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="100">Docker</td>
+          <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="100">Git</td>
+          <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="100">Github</td>
+          <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="100">VS Code</td>
+     </tr>
+  </table>
 
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
-<div>
-<img align="right" alt="GIF" src="https://github.com/MSalman6/MSalman6/blob/master/code.gif?raw=true" width="400" />
- 
-### Web site & Web application
-I develop dynamic and responsive web applications using technologies like React, Vue, Node.js, and more.
-<br />
-  
-### Blockchain (Ethereum, Avalanche, Binance, Polygon, TON etc.)
-I specialize in building decentralized applications (Dapps), smart contracts, and integrating blockchain technology into various solutions.
-<br />
-
-### Crypto Trading Platforms & Bots
-I create automated trading platforms and bots for cryptocurrency markets, leveraging my skills in backend development and blockchain integration.
-
-<br />
-
-</div>
