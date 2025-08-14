@@ -17,9 +17,12 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WindYari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WindYari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=msalman6&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=default" alt="Salman's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalman6&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+###
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
