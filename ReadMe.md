@@ -58,4 +58,5 @@
      </tr>
   </table>
 
+<img align="center" src="./wave.svg" alt="Wave" />
 
