@@ -1,6 +1,6 @@
-<br clear="both">
 
-<h2 align="center">Hi 👋! I am WindYari.</h2>
+[![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)]()
+<h2 align="center">Hi 👋! I am WindYari.<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h2>
 
 ###
 
