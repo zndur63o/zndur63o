@@ -4,7 +4,7 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
     <a href="" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
     </a>
@@ -14,7 +14,7 @@
     <a href="mailto:jonsonwang1104@gmail.com" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     </a>
-</div>
+</div> -->
 
 ###
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=WindYari&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=default" alt="WindYari's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindYari&layout=compact&hide_border=true" /> |
