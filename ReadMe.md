@@ -1,6 +1,6 @@
 
 <!-- [![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)]() -->
-<img src="/bg03.jpg" width="100%">
+<img src="/bg04.jpg" width="100%">
 <h2 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">Hi 👋! I am Zndur63o.<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h2>
 
 ###
