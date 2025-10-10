@@ -1,6 +1,6 @@
 
 [![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)]()
-<h2 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">Hi 👋! I am WindYari.<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">Hi 👋! I am zndur63o.<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h2>
 
 ###
 
@@ -17,7 +17,7 @@
 </div> -->
 
 ###
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=WindYari&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=default" alt="WindYari's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindYari&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zndur63o&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=default" alt="zndur63o's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zndur63o&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
 ###
