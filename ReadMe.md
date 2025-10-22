@@ -20,9 +20,9 @@
 ###
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=zndur63o&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=default" alt="zndur63o's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zndur63o&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
-
+   
 ###
-
+  
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table align="center">
     <tr>
